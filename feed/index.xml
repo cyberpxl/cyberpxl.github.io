@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title></title>
+	<atom:link href="/feed" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Online Kids Parties... and more!</description>
+	<lastBuildDate>Mon, 30 Aug 2021 00:00:46 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.6</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/05/cropped-greatgaminglogp-150x150.png</url>
+	<title></title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Introducing Minecraft Server Setups!</title>
+		<link>/2021/08/introducing-minecraft-server-setups</link>
+		
+		<dc:creator><![CDATA[Tigerboy3050]]></dc:creator>
+		<pubDate>Sun, 29 Aug 2021 23:48:28 +0000</pubDate>
+				<category><![CDATA[Products]]></category>
+		<category><![CDATA[Server Setups]]></category>
+		<guid isPermaLink="false">/?p=424</guid>
+
+					<description><![CDATA[Do you or your kids feel like playing Minecraft with your friends, but just don’t know how?]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="424" class="elementor elementor-424">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-601988de elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="601988de" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-286d54d3" data-id="286d54d3" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-6d2f183c elementor-widget elementor-widget-text-editor" data-id="6d2f183c" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<!-- wp:paragraph -->
+<p>Do you or your kids feel like playing Minecraft with your friends, but just don&#8217;t know how? Have you tried hosting one on your computer, but then failing to connect to the outside world? Have you got a host, but don&#8217;t know how to configure it?</p>
+<!-- /wp:paragraph --><!-- wp:paragraph -->
+<p>Well now you don&#8217;t need to with GGParties Minecraft Server Setups, you can have an epic experience, without the hassle!</p>
+<!-- /wp:paragraph --><!-- wp:image {"id":425,"width":359,"height":359,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" class="wp-image-425" src="/wp-content/uploads/2021/08/Untitled-design-1.png" alt="" width="359" height="359" srcset="/wp-content/uploads/2021/08/Untitled-design-1.png 500w, /wp-content/uploads/2021/08/Untitled-design-1-300x300.png 300w, /wp-content/uploads/2021/08/Untitled-design-1-150x150.png 150w" sizes="(max-width: 359px) 100vw, 359px" /></figure>
+<!-- /wp:image --><!-- wp:paragraph -->
+<p>You can find out more at: <a href="/setups">/setups</a></p>
+<!-- /wp:paragraph -->						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
